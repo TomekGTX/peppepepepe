@@ -1,0 +1,9 @@
+{
+	"ip":"kifolsmp.tk",
+	"port": 29370,
+	"name": "afkbotzebyserwersieniewylaczal",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register TomekGTX1",
+	"login-cmd":"/login TomekGTX1"
+}
